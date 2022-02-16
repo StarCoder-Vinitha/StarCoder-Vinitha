@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinitha</h1>
 <h3 align="center">Statistical and Inferential Data Analyst</h3>
 
-<img align="right" width="400" src="https://thumbs.dreamstime.com/b/programmer-laptop-female-programmer-laptop-white-background-119776924.jpg">
+<img align="right" width="450" src="https://miro.medium.com/max/1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 
 - 🔭 I’m currently working on **Python Data Science**
 
